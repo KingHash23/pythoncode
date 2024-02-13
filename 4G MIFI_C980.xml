@@ -18,7 +18,7 @@
                         <sharedKey>
                             <keyType>passPhrase</keyType>
                             <protected>false</protected>
-                            <keyMaterial>00000018</keyMaterial>
+                            <keyMaterial>00000034</keyMaterial>
                         </sharedKey>
                     </security>
                 </MSM>
