@@ -29,4 +29,4 @@ print(f"Latitude: {location['lat']}, Longitude: {location['lon']}")
 latitude = 36.723
 longitude = 3.188
 address = get_address_by_location(latitude, longitude)
-print(f"Address: {address['display_name']}")
+print(f"Address: {address['display_name']}") 
