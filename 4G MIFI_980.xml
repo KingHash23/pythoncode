@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
             <WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
-                <name>4G MIFI_C980</name>
+                <name>4G MIFI_980</name>
                 <SSIDConfig>
                     <SSID>
-                        <name>4G MIFI_C980</name>
+                        <name>4G MIFI_980</name>
                     </SSID>
                 </SSIDConfig>
                 <connectionType>ESS</connectionType>
@@ -18,7 +18,7 @@
                         <sharedKey>
                             <keyType>passPhrase</keyType>
                             <protected>false</protected>
-                            <keyMaterial>00000018</keyMaterial>
+                            <keyMaterial>00000006</keyMaterial>
                         </sharedKey>
                     </security>
                 </MSM>
